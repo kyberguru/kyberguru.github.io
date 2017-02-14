@@ -1,5 +1,3 @@
-# Kyberguru
-
 Sharing information related to cyber security and tips on how to protect your privacy. Please feel free to collaborate!
 
 # Cyber security & hacking
@@ -30,7 +28,7 @@ TODO
 
 [Awesome Security](https://github.com/sbilly/awesome-security)
 
-# Protecting your privacy and data
+# Protecting your privacy and personal data
 
 ## Secure and encrypted email
 
